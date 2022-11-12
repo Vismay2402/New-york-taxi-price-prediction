@@ -1,4 +1,4 @@
 ## New york taxi price prediction
-Explaination
+Explanation
 ## Methodology
 .......
